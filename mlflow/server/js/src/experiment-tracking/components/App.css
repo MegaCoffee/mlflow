@@ -64,8 +64,14 @@ div.github {
 }
 
 div.docs {
+  padding-right: 24px;
   color: #ffffff;
 }
+
+div.logout {
+  color: #ffffff;
+}
+
 
 .header-nav-link {
   height: 40px;

@@ -93,6 +93,11 @@ class App extends Component {
                     <span>Docs</span>
                   </div>
                 </a>
+                <a href='/logout'>
+                  <div className='logout'>
+                    <span>Logout</span>
+                  </div>
+                </a>
               </div>
             </header>
           )}
